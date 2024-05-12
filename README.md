@@ -1,2 +1,54 @@
-# GreenTreaty
-Go on a journey to explore a mysterious world.
+# **소개**
+
+신비한 세계를 탐험하기 위해 여행을 떠나세요. 이 세계는 총 9개의 원소로 이루어졌습니다.
+
+## **차례**
+
+* **Ⅰ. 마법학**
+* **Ⅱ. 링크**
+
+# **Ⅰ. 마법학**
+
+> ## **마법 원소 속성 관계 표**
+>
+> | 속성 | 풀 | 불 | 물 | 바람 | 번개 | 얼음 | 바위 | 빛 | 어둠 |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> | 풀 | - | O | O | O | O | O | O | O | O |
+> | 불 | O | - | O | O | O | O | O | O | O |
+> | 물 | O | O | - | O | O | O | O | O | O |
+> | 바람 | O | O | O | - | O | O | O | O | O |
+> | 번개 | O | O | O | O | - | O | O | O | O |
+> | 얼음 | O | O | O | O | O | - | O | O | O |
+> | 바위 | O | O | O | O | O | O | - | O | O |
+> | 빛 | O | O | O | O | O | O | O | - | O |
+> | 어둠 | O | O | O | O | O | O | O | O | - |
+
+* **마법 반응** : 어떠한 마법 물질이 속성 변화를 겪어 다른 물질로 변화하는 과정.
+* **마법 반응식** : 마법 반응이 일어나면 반응하는 물질인 반응물과 반응물 사이에서 원자의 재배열이 일어나 새로운 결합을 형성하게 된 생성물을 마법식, 기호를 이용하여 나타낸 식.
+
+> ## 마법식
+>
+> 1. 풀 : Gr (Gramen) <br>
+> 2. 불 : I (Ignis) <br>
+> 3. 물 : A (Aqua) <br>
+> 4. 바람 : V (Ventus) <br>
+> 5. 번개 : Ln (Lightning) <br>
+> 6. 얼음 : Gl (Glacies) <br>
+> 7. 바위 : S (Saxum) <br>
+> 8. 빛 : Lu (Lux) <br>
+> 9. 어둠 : T (Tenebris)
+>
+> **규칙** : 마법식에서 항상 Lu가 첫 번째로, V가 두 번째로, 그리고 알파벳 순서로 나열하기.
+>
+> * ### **예**
+>
+> * Gr₂ + 2I₂ → 2GrI₂
+> * Lu + T → LuT
+> * 2V₂ + Ln₂ → 2V₂Ln
+
+# **Ⅱ. 링크**
+
+* [장경혁tv](https://www.youtube.com/@NewLand2019-JkhTV)
+* [New랜드 카페](https://cafe.naver.com/2019newland)
+* [New랜드 디스코드](https://discord.gg/2J646MaZGA)
+* [장경혁tv의 티스토리](https://jkhtv.tistory.com)
