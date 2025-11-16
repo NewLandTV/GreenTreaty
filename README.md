@@ -128,7 +128,7 @@
 
 # **Ⅲ. 링크**
 
-* [장경혁tv](https://www.youtube.com/@NewLand2019-JkhTV)
+* [장경혁tv](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
 * [New랜드 카페](https://cafe.naver.com/2019newland)
 * [New랜드 디스코드](https://discord.gg/2J646MaZGA)
 * [장경혁tv의 티스토리](https://jkhtv.tistory.com)
